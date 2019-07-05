@@ -5,6 +5,8 @@ public class Drink {
     String name;
     double price;
     boolean isAlcoholic;
-    Ingredient ingredient;
+    Ingredient ingredient1;
+    Ingredient ingredient2;
+    Ingredient ingredient3;
     double volume;
 }
